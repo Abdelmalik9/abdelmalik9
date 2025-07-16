@@ -21,7 +21,7 @@
 
 ## Projects
 - Statistics and Descriptive Analytics
-    * <a href= "https://github.com/Abdelmalik9/Pricing-Diamonds">Linear Regression</a>
+    * <a href= "https://github.com/Abdelmalik9/Pricing-Diamonds">understand how carats influence Diamond Prices(using Linear Regression)</a>
     * <a href= "https://github.com/Abdelmalik9/Titanic-Survivors/tree/main">Logistic Regression</a>
     * <a href= "https://github.com/Abdelmalik9/Retail-Store-Sales-drivers-Project">Multilinear Regression</a>
 - Segmentation
