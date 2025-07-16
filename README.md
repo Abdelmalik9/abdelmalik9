@@ -30,7 +30,7 @@
     * <a href="https://github.com/Abdelmalik9/Volkswagen-CO2-scandal">Volkswagen-CO2-scandal "Google Causal Impact"</a>
     * <a href="https://github.com/Abdelmalik9/Remote-Workers-career-satisfaction">Remote-Workers-career-satisfaction "using Matching"</a>
 - Predictive Analytics
-    * Random Forest
-    * Prophet
+    * <a href="https://github.com/Abdelmalik9/Customers-income">Customers-income "Random Forest"</a>
+    * <a href="https://github.com/Abdelmalik9/Demand-Forecasting">Demand for Shelter "using facebook Prophet"</a>
 
 
