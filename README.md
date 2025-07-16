@@ -26,7 +26,7 @@
     * <a href= "https://github.com/Abdelmalik9/Retail-Store-Sales-drivers-Project">Retail Store Sales' drivers "using Multilinear Regression"</a>
 - Segmentation
     * <a href="https://github.com/Abdelmalik9/Behavioral-Segmentation">Behavioral-Segmentation "using Gaussian Mixture Model"</a>
-    * RFM
+    * <a href="https://github.com/Abdelmalik9/Customer-Segmentation/tree/main">"Customer Segmentation using RFM"</a>
 - Econometrics and Causal Inference
     Google Causal Impact
     Matching
