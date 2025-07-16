@@ -17,7 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmalik9&show_icons=true&locale=en" alt="abdelmalik9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmalik9&" alt="abdelmalik9" /></p>
 
 ## Projects
 - Statistics and Descriptive Analytics
