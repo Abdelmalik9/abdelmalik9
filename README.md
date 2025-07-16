@@ -28,10 +28,10 @@
     * <a href="https://github.com/Abdelmalik9/Behavioral-Segmentation">Behavioral-Segmentation "using Gaussian Mixture Model"</a>
     * <a href="https://github.com/Abdelmalik9/Customer-Segmentation/tree/main">Customer Segmentation "using RFM"</a>
 - Econometrics and Causal Inference
-    Google Causal Impact
-    Matching
+    * <a href="https://github.com/Abdelmalik9/Volkswagen-CO2-scandal">Volkswagen-CO2-scandal "Google Causal Impact"</a>
+    * Matching
 - Predictive Analytics
-    Random Forest
-    Prophet
+    * Random Forest
+    * Prophet
 
 
