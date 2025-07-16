@@ -19,6 +19,10 @@
 
 
 ## Projects
+# SQL 
+- <a href="https://github.com/Abdelmalik9/sql-data-warehous-project">Data Warehouse and Analytics Project</a>
+- <a href="https://github.com/Abdelmalik9/sql-data-analytics-project">sql-data-analytics-project</a>
+# Statistics(BI & ML)
 - Statistics and Descriptive Analytics
     * <a href= "https://github.com/Abdelmalik9/Pricing-Diamonds">understand how carats influence Diamond Prices "using Linear Regression"</a>
     * <a href= "https://github.com/Abdelmalik9/Titanic-Survivors/tree/main">predict Titanic Survivors "using Logistic Regression"</a>
