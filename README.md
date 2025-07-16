@@ -21,7 +21,7 @@
 
 ## Projects
 - Statistics and Descriptive Analytics
-    * <a https://github.com/Abdelmalik9/Pricing-Diamonds>Linear Regression</a>
+    * <a hreft= "https://github.com/Abdelmalik9/Pricing-Diamonds">Linear Regression</a>
     * Logistic Regression
     * Multilinear Regression
 - Segmentation
