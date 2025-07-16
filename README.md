@@ -21,11 +21,11 @@
 
 ## Projects
 - Statistics and Descriptive Analytics
-    Linear Regression
-    Logistic Regression
-    Multilinear Regression
+    * Linear Regression
+    * Logistic Regression
+    * Multilinear Regression
 - Segmentation
-    Gaussian Mixture Model
+    * Gaussian Mixture Model
     RFM
 - Econometrics and Causal Inference
     Google Causal Impact
