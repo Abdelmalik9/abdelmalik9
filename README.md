@@ -23,10 +23,10 @@
 - Statistics and Descriptive Analytics
     * <a href= "https://github.com/Abdelmalik9/Pricing-Diamonds">understand how carats influence Diamond Prices "using Linear Regression"</a>
     * <a href= "https://github.com/Abdelmalik9/Titanic-Survivors/tree/main">predict Titanic Survivors "using Logistic Regression"</a>
-    * <a href= "https://github.com/Abdelmalik9/Retail-Store-Sales-drivers-Project">Retail Store Sales' drivers "Multilinear Regression"</a>
+    * <a href= "https://github.com/Abdelmalik9/Retail-Store-Sales-drivers-Project">Retail Store Sales' drivers "using Multilinear Regression"</a>
 - Segmentation
-    * Gaussian Mixture Model
-    RFM
+    * <a href="https://github.com/Abdelmalik9/Behavioral-Segmentation">Behavioral-Segmentation "using Gaussian Mixture Model"</a>
+    * RFM
 - Econometrics and Causal Inference
     Google Causal Impact
     Matching
