@@ -22,7 +22,7 @@
 ## Projects
 - Statistics and Descriptive Analytics
     * <a href= "https://github.com/Abdelmalik9/Pricing-Diamonds">Linear Regression</a>
-    * Logistic Regression
+    * <a href= "https://github.com/Abdelmalik9/Titanic-Survivors/tree/main">Logistic Regression</a>
     * Multilinear Regression
 - Segmentation
     * Gaussian Mixture Model
