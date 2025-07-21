@@ -22,6 +22,7 @@
 # SQL 
 - <a href="https://github.com/Abdelmalik9/sql-data-warehous-project">Data Warehouse and Analytics Project (ETL)</a>
 - <a href="https://github.com/Abdelmalik9/sql-data-analytics-project">sql-data-analytics-project</a>
+- <a href="https://github.com/Abdelmalik9/Retail-Sales-Analysis-SQL-Project">Retail-Sales-Analysis-SQL-Project</a>
 # Statistics(BI & ML)
 - Statistics and Descriptive Analytics
     * <a href= "https://github.com/Abdelmalik9/Pricing-Diamonds">understand how carats influence Diamond Prices "using Linear Regression"</a>
