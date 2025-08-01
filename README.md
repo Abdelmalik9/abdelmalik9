@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 📫 How to reach me **medjahedi787@gmail.com**
-
 <p align="left">
 </p>
 
