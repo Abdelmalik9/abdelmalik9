@@ -17,6 +17,8 @@
 
 
 ## Projects
+# Tableau 
+https://public.tableau.com/app/profile/abd.el.malik.med/vizzes
 # SQL 
 - <a href="https://github.com/Abdelmalik9/sql-data-warehous-project">Data Warehouse and Analytics Project (ETL)</a>
 - <a href="https://github.com/Abdelmalik9/sql-data-analytics-project">sql-data-analytics-project (EDA)</a>
